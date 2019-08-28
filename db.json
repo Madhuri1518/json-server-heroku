@@ -3,8 +3,8 @@
   "overview": {
     "completedCallingMinutes":0,
     "expectedCallingMinutes": 70000,
-    "processedCustomerCount": 1400000,
-    "totalCustomerCount": 210000,
+    "processedCustomerCount": 87,
+    "totalCustomerCount": 100,
     "totalPastDueAmount": 13130,
     "totalPastDueProcessed": 312000
   },
