@@ -7337,7 +7337,7 @@
       "sipToken": "zemoso@321",
       "sipUser": "sipML5",
       "incomingNumber":{"US":"9010876677",
-                        "INDIA":"8054868359",
+                        "INDIA":"8054868359"
                        },
       "virtualNumber": "sipML5"
     },
