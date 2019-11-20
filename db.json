@@ -9728,5 +9728,12 @@
       "code": "GBP",
       "symbol": "£"
     }
-  ]
+  ],
+  "asteriskParameter": {
+    "agentId": 3454,
+    "recordKey": "yes",
+    "timezone": "+5:30",
+    "platform": "tovo",
+    "language": "en-US"
+  }
 }
