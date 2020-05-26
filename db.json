@@ -6,17 +6,17 @@
     },
     {
       "link": "bring bills",
-      "id": 2
+      "id": 2,
+      "userId":1
     }
+  ],
+  "users": [
+    { "id": 1, "name": "pallav" }
   ],
   "GenerateLink": [
     {
       "link": "kl.com/",
       "id": 1
-    },
-    {
-      "link": "Hai",
-      "id": 2
     }
   ],
   "sendEmail": [
@@ -45,97 +45,6 @@
       "mobileNumber": "",
       "email": "vishal@gmail.com",
       "id": 4
-    },
-    {
-      "orgName": "Uchi Dallas",
-      "contactName": "Junior Borges",
-      "mobileNumber": "",
-      "email": "juniorborges@uchidallas.com",
-      "id": 5
-    },
-    {
-      "orgName": "Uchi Dallas",
-      "contactName": "Junior Borges",
-      "mobileNumber": "",
-      "email": "Juniorborges@uchidallas.com",
-      "id": 6
-    },
-    {
-      "orgName": "Uchi Dallas",
-      "contactName": "Junior Borges",
-      "mobileNumber": "",
-      "email": "Juniorborges@uchidallas.com",
-      "id": 7
-    },
-    {
-      "orgName": "Uchi Dallas",
-      "contactName": "Junior Borges",
-      "mobileNumber": "",
-      "email": "Juniorborges@uchidallas.com",
-      "id": 8
-    },
-    {
-      "orgName": "Uchi Dallas",
-      "contactName": "Junior Borges",
-      "mobileNumber": "",
-      "email": "Juniorborges@uchidallas.com",
-      "id": 9
-    },
-    {
-      "orgName": "Uchi Dallas",
-      "contactName": "Junior Borges",
-      "mobileNumber": "",
-      "email": "juniorborges@uchidallas.com",
-      "id": 10
-    },
-    {
-      "orgName": "Uchi Dallas",
-      "contactName": "Junior Borges",
-      "mobileNumber": "",
-      "email": "Juniorborges@uchidallas.com",
-      "id": 11
-    },
-    {
-      "orgName": "Uchi Dallas",
-      "contactName": "junior Borges",
-      "mobileNumber": "",
-      "email": "Juniorborges@uchidallas.com",
-      "id": 12
-    },
-    {
-      "orgName": "Uchi Dallas",
-      "contactName": "Junior Borges",
-      "mobileNumber": "",
-      "email": "Juniorborges@uchidallas.com",
-      "id": 13
-    },
-    {
-      "orgName": "Uchi Dallas",
-      "contactName": "Junior Borges",
-      "mobileNumber": "",
-      "email": "Juniorborges@uchidallas.com",
-      "id": 14
-    },
-    {
-      "orgName": "Uchi Dallas",
-      "contactName": "junior Borges",
-      "mobileNumber": "",
-      "email": "Juniorborges@uchidallas.com",
-      "id": 15
-    },
-    {
-      "orgName": "Uchi Dallas",
-      "contactName": "Junior Borges",
-      "mobileNumber": "",
-      "email": "Juniorborges@uchiDallas.com",
-      "id": 16
-    },
-    {
-      "orgName": "Uchi Dallas",
-      "contactName": "Junior Borges",
-      "mobileNumber": "",
-      "email": "kc kq",
-      "id": 17
     }
   ]
 }
