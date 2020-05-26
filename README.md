@@ -60,6 +60,7 @@ Heroku is a free hosting service for hosting small projects. Easy setup and depl
 2 . Create an account on <br/>[https://heroku.com](https://heroku.com)
 
 3 . Install the Heroku CLI on your computer: <br/>[https://devcenter.heroku.com/articles/heroku-cli](https://devcenter.heroku.com/articles/heroku-cli)
+for ubuntu sudo snap install --classic heroku
 
 4 . Connect the Heroku CLI to your account by writing the following command in your terminal and follow the instructions on the command line:
 ```bash
