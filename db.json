@@ -1,4 +1,14 @@
 {
+  "addTodo": [
+    {
+      "data": "go Home",
+      "id": 1
+    },
+    {
+      "link": "bring bills",
+      "id": 2
+    }
+  ],
   "GenerateLink": [
     {
       "link": "kl.com/",
